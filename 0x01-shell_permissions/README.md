@@ -8,3 +8,4 @@ A script to give execute permission to a file
 mulitiple permissions
 multiple permissions to the owner
 james bond permissions
+set mode of a file 
