@@ -7,3 +7,4 @@ create an empty file
 A script to give execute permission to a file
 mulitiple permissions
 multiple permissions to the owner
+james bond permissions
