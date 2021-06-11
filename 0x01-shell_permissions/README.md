@@ -4,3 +4,4 @@ print groups
 A script to switch user
 change the owner of the file
 create an empty file
+A script to give execute permission to a file
