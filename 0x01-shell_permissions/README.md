@@ -11,3 +11,4 @@ james bond permissions
 set mode of a file 
 mirror permissions
 Directories and sub-directories permissions
+Directory permissions
