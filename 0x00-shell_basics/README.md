@@ -9,3 +9,4 @@ take me back home
 create a directory
 move that file
 delete a file
+A script to delete a directory
