@@ -16,3 +16,4 @@ A script which prints file type
 Symbolic Link
 copy html files
 A script which move files with uppercase on their directories
+A script to remove temporarly files created by emacs editor
