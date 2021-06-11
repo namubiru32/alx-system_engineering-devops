@@ -13,3 +13,5 @@ A script to delete a directory
 move back
 List files including hidden ones
 A script which prints file type
+Symbolic Link
+copy html files
