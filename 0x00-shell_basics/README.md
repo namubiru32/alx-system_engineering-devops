@@ -8,3 +8,4 @@ a script that creates a directory in /root
 take me back home
 create a directory
 move that file
+delete a file
