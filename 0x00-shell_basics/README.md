@@ -15,3 +15,4 @@ List files including hidden ones
 A script which prints file type
 Symbolic Link
 copy html files
+A script which move files with uppercase on their directories
