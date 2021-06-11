@@ -9,3 +9,4 @@ mulitiple permissions
 multiple permissions to the owner
 james bond permissions
 set mode of a file 
+mirror permissions
