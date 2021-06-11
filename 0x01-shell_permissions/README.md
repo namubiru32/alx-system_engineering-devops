@@ -12,3 +12,4 @@ set mode of a file
 mirror permissions
 Directories and sub-directories permissions
 Directory permissions
+change group owner
