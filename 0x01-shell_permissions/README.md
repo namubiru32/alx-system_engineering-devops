@@ -6,3 +6,4 @@ change the owner of the file
 create an empty file
 A script to give execute permission to a file
 mulitiple permissions
+multiple permissions to the owner
