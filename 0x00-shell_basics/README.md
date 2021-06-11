@@ -18,3 +18,4 @@ copy html files
 A script which move files with uppercase on their directories
 A script to remove temporarly files created by emacs editor
 A script to create multiple directories in a current directory
+Script to list files and directories seperated by commas
