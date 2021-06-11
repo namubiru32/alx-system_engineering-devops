@@ -6,3 +6,4 @@ Display current directory contents, including hidden files
 Display current directory contents in Long format with user and group IDs displayed numerically and hidden files 
 a script that creates a directory in /root 
 take me back home
+create a directory
