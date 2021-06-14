@@ -8,3 +8,4 @@ Display the first 10 lines
 displays the third line of the file
 a shell script that creates a file with an exact name
 script that writes into the file
+Write a script that duplicates the last line of the file iacta
