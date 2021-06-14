@@ -7,3 +7,4 @@ Display the last 10 lines
 Display the first 10 lines
 displays the third line of the file
 a shell script that creates a file with an exact name
+script that writes into the file
